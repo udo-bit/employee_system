@@ -1,0 +1,3 @@
+/Users/gaoxl85/Desktop/employer_system/cmake-build-debug/CMakeFiles/employer_system.dir
+/Users/gaoxl85/Desktop/employer_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gaoxl85/Desktop/employer_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir

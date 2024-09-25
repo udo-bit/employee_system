@@ -1,0 +1,27 @@
+# ninja log v6
+5	256	1727273746438349270	CMakeFiles/employer_system.dir/main.cpp.o	8f502419c54cb4d8
+256	295	1727273746689613103	employer_system	e632d0cbd08f2a5a
+6	262	1727273687189756593	CMakeFiles/employer_system.dir/WorkerManager.cpp.o	ab547b9e756d048c
+6	308	1727274877650991780	CMakeFiles/employer_system.dir/Worker.cpp.o	a65913103c3514ae
+5	314	1727274877650381695	CMakeFiles/employer_system.dir/main.cpp.o	8f502419c54cb4d8
+6	319	1727274877651492865	CMakeFiles/employer_system.dir/Boss.cpp.o	bb0c9cd671199a39
+6	320	1727274877651162989	CMakeFiles/employer_system.dir/Employee.cpp.o	ac69fc0f32c210e2
+6	321	1727274877651325239	CMakeFiles/employer_system.dir/Manager.cpp.o	a0f8971ad1c869d4
+4	260	1727274890439705308	CMakeFiles/employer_system.dir/Worker.cpp.o	a65913103c3514ae
+4	261	1727274890439378891	CMakeFiles/employer_system.dir/main.cpp.o	8f502419c54cb4d8
+5	271	1727274890439831975	CMakeFiles/employer_system.dir/Employee.cpp.o	ac69fc0f32c210e2
+5	271	1727274890440064392	CMakeFiles/employer_system.dir/Boss.cpp.o	bb0c9cd671199a39
+5	272	1727274890439947725	CMakeFiles/employer_system.dir/Manager.cpp.o	a0f8971ad1c869d4
+272	316	1727274890707068851	employer_system	a6b150862118cbe0
+5	298	1727274955954810620	CMakeFiles/employer_system.dir/main.cpp.o	8f502419c54cb4d8
+298	340	1727274956247921856	employer_system	a6b150862118cbe0
+6	269	1727274997083721491	CMakeFiles/employer_system.dir/Employee.cpp.o	ac69fc0f32c210e2
+269	310	1727274997346441543	employer_system	a6b150862118cbe0
+9	323	1727282018694592489	CMakeFiles/employer_system.dir/main.cpp.o	8f502419c54cb4d8
+10	330	1727282018694915860	CMakeFiles/employer_system.dir/WorkerManager.cpp.o	ab547b9e756d048c
+330	372	1727282019014957254	employer_system	a6b150862118cbe0
+6	323	1727282170788204307	CMakeFiles/employer_system.dir/WorkerManager.cpp.o	ab547b9e756d048c
+323	364	1727282171105106148	employer_system	a6b150862118cbe0
+7	268	1727282288517714780	CMakeFiles/employer_system.dir/main.cpp.o	8f502419c54cb4d8
+7	273	1727282288518033568	CMakeFiles/employer_system.dir/WorkerManager.cpp.o	ab547b9e756d048c
+274	317	1727282288784207916	employer_system	a6b150862118cbe0
